@@ -26,7 +26,6 @@
 - AI Development
 
 
-## 🚀 Projects
 ## 🚀 My Projects
 
 1. **FairStart AI** – AI-based Employee Learning and Career Development project. (Completed)
